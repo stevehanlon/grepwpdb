@@ -176,7 +176,7 @@ if (array_key_exists("help", $options) ||
   
 
 $conn->close();
-exit(0)
+exit(0);
 
 
 // Function to iterate through object or array and find strings. 
